@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #000000;
+    grid-column-gap: 50px;
+}
+  video {
+    min-width:40%;
+    max-width: 100%;
+    min-height: 100%;
+  }
+  
